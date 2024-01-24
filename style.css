@@ -263,8 +263,17 @@ th, td{
     margin-bottom: 10px;
   }
 
+  .productos{
+    width: auto;
+  }
+
   .productos li{
     display: block;
-    margin: 0 10px 1.5%;
+   width: 100%;
+   margin-bottom: 10px;
+  }
+
+  .img-productos{
+    width: 100%;
   }
 }
